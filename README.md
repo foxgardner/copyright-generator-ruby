@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+FoxViewTool::Renderer.copyright 'Fox Gardner', 'All rights reserved'
+```
 
 ## Development
 
